@@ -21,7 +21,7 @@ const Home = () => {
   return (
     <section className="py-16 px-8 text-center animate-fadeIn">
       <img 
-        src="/src/assets/my-logo.jpg" 
+        src="../assets/my-logo.jpg" 
         alt="Logo" 
         className="w-[200px] mx-auto mb-8 rounded-full animate-spinIn shadow-lg shadow-black-500/20" 
 />
