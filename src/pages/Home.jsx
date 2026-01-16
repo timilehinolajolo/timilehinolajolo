@@ -41,7 +41,7 @@ const Home = () => {
         <Link to="/projects" className="px-6 py-3 border-2 border-[#ab0eab] bg-[#ab0eab] text-white font-bold rounded hover:scale-105 transition-transform">
           My Projects
         </Link>
-        <a href="/resume.pdf" className="px-6 py-3 border-2 border-[#ab0eab] text-[#ab0eab] font-bold rounded hover:scale-105 transition-transform">
+        <a href="./resume.pdf" className="px-6 py-3 border-2 border-[#ab0eab] text-[#ab0eab] font-bold rounded hover:scale-105 transition-transform">
           View Resume
         </a>
       </div>
