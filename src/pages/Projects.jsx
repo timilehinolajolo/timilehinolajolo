@@ -4,8 +4,8 @@ const projects = [
     {
         title: "My portofolio",
         desc: "Built a responsive and interactive personal portofolio using ReactJS and TailwindCSS",
-        link: "https://taskmasterbytimilehinolajolo.netlify.app/",
-        code: "https://github.com/timilehinolajolo/WTF26-November-Project",
+        link: "https://timilehinolajolo.netlify.app/",
+        code: "https://github.com/timilehinolajolo/timilehinolajolo",
         image: "src/assets/timilehin-portofolio.png"
       },
   {
@@ -25,14 +25,14 @@ const projects = [
   {
     title: "UniGrand",
     desc: "An imaginary university dashboard for students using js, html and css.",
-    link: "https://unigrand.vercel.app/",
+    link: "https://unigrand.netlify.app/",
     code: "https://github.com/Olajolo-Taiwo/UNIGRAND",
     image: "src/assets/unigrand.jpeg"
   },
   {
     title: "BuyCoin - Crypto",
     desc: "A collaborative project focusing oon the UI design.",
-    link: "https:/buycoin.netlify.app",
+    link: "https:/buycoinc.netlify.app",
     code: "https://github.com/timilehinolajolo/BuyCoin-Crypto",
     image: "src/assets/buycoin.jpg"
   }
