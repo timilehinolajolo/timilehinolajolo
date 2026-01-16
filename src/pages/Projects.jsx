@@ -1,12 +1,7 @@
 import React from 'react';
-
-// --- CORRECT IMPORTS ---
-// 1. We use "../assets" because your folder is lowercase.
-// 2. PLEASE CHECK THE SPELLING in the quotes if an image is still broken.
-
-import portfolioImg from '../assets/timilehin-portofolio.png'; // ⚠️ Check: Is it 'portofolio' or 'portfolio'?
+import portfolioImg from '../assets/timilehin-portofolio.png';
 import taskMasterImg from '../assets/task-master.png';
-import teamApexImg from '../assets/tem-apex.png'; // ⚠️ Check: Is it 'tem' or 'team'?
+import teamApexImg from '../assets/tem-apex.png';
 import uniGrandImg from '../assets/unigrand.jpeg'; 
 import buyCoinImg from '../assets/buycoin.jpg'; 
 
