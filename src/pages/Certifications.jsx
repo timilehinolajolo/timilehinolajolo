@@ -32,7 +32,7 @@ const Certifications = () => {
         {certs.map((cert, index) => (
           <li key={index} className="flex flex-col md:flex-row items-center justify-between p-4 border border-purple-900/30 rounded-lg bg-white/5 hover:bg-white/10 transition-colors">
             <span className="text-lg text-white mb-4 md:mb-0">
-              📜 {cert.title} – <span className="text-gray-400">{cert.issuer}</span>
+              {cert.title} – <span className="text-gray-400">{cert.issuer}</span>
             </span>
             <a 
               href={cert.link} 
