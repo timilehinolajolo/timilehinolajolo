@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import myLogo from '../assets/my-logo.jpg'; 
+
 
 const Home = () => {
   const [displayName, setDisplayName] = useState("");
@@ -21,7 +23,7 @@ const Home = () => {
   return (
     <section className="py-16 px-8 text-center animate-fadeIn">
       <img 
-        src="../assets/my-logo.jpg" 
+        src="myLogo" 
         alt="Logo" 
         className="w-[200px] mx-auto mb-8 rounded-full animate-spinIn shadow-lg shadow-black-500/20" 
 />
