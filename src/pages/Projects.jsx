@@ -4,7 +4,7 @@ import taskMasterImg from '../assets/task-master.png';
 import teamApexImg from '../assets/tem-apex.png';
 import uniGrandImg from '../assets/unigrand.jpeg'; 
 import buyCoinImg from '../assets/buycoin.jpg'; 
-import trustBridgeImg from '../assets/trust-bridge.png';
+import trustBridgeImg from '../assets/trustbridge.png';
 import scriptureProImg from '../assets/scripturepro.png';
 
 const projects = [
