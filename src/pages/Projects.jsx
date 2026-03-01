@@ -4,14 +4,30 @@ import taskMasterImg from '../assets/task-master.png';
 import teamApexImg from '../assets/tem-apex.png';
 import uniGrandImg from '../assets/unigrand.jpeg'; 
 import buyCoinImg from '../assets/buycoin.jpg'; 
+import trustBridgeImg from '../assets/trust-bridge.png';
+import scriptureProImg from '../assets/scripturepro.png';
 
 const projects = [
+  {
+    title: "TrustBridge",
+    desc: "A full-stack FinTech dashboard designed for SMEs to track institutional flow of funds and calculate AI-driven trust scores.",
+    link: "https://trustbridgee.netlify.app/",
+    code: "https://github.com/invicta-team-67/trustbridge",
+    image: trustBridgeImg
+  },
   {
     title: "My Portfolio",
     desc: "Built a responsive and interactive personal portfolio using ReactJS and TailwindCSS",
     link: "https://timilehinolajolo.netlify.app/",
     code: "https://github.com/timilehinolajolo/timilehinolajolo",
     image: portfolioImg 
+  },
+    {
+    title: "ScripturePro Quiz",
+    desc: "An interactive Bible-based quiz application built with JavaScript to test knowledge and track progress.",
+    link: "https://scriptureproquiz.netlify.app/",
+    code: "https://github.com/timilehinolajolo/ScripturePRO",
+    image: scriptureProImg
   },
   {
     title: "Task Master",
@@ -48,21 +64,24 @@ const Projects = () => (
     <h2 className="text-5xl font-bold text-center mb-12 text-[#ab0eab]">My Projects</h2>
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {projects.map((p, i) => (
-        <div key={i} className="border-2 border-[#ab0eab] p-6 rounded-2xl bg-white/5 backdrop-blur-md">
-          {/* This checks if the image loaded correctly */}
-          {p.image ? (
-            <img src={p.image} alt={p.title} className="rounded-lg mb-4 w-full h-48 object-cover" />
-          ) : (
-            <div className="h-48 bg-gray-800 text-white flex items-center justify-center mb-4 rounded-lg">
-              Image not found
-            </div>
-          )}
-          
-          <h3 className="bg-[#732d91] p-2 text-center font-bold mb-4">{p.title}</h3>
-          <p className="text-sm text-gray-300 mb-6">{p.desc}</p>
+        <div key={i} className="border-2 border-[#ab0eab] p-6 rounded-2xl bg-white/5 backdrop-blur-md flex flex-col justify-between">
+          <div>
+            {/* This checks if the image loaded correctly */}
+            {p.image ? (
+              <img src={p.image} alt={p.title} className="rounded-lg mb-4 w-full h-48 object-cover" />
+            ) : (
+              <div className="h-48 bg-gray-800 text-white flex items-center justify-center mb-4 rounded-lg text-xs font-bold uppercase tracking-widest">
+                {p.title} Preview
+              </div>
+            )}
+            
+            <h3 className="bg-[#732d91] p-2 text-center font-bold mb-4">{p.title}</h3>
+            <p className="text-sm text-gray-300 mb-6">{p.desc}</p>
+          </div>
+
           <div className="flex gap-4">
-            <a href={p.link} className="bg-[#ab0eab] px-4 py-2 rounded text-xs font-bold">Live</a>
-            <a href={p.code} className="border border-white/30 px-4 py-2 rounded text-xs">Code</a>
+            <a href={p.link} target="_blank" rel="noreferrer" className="bg-[#ab0eab] px-4 py-2 rounded text-xs font-bold hover:bg-[#8e0c8e] transition-colors">Live</a>
+            <a href={p.code} target="_blank" rel="noreferrer" className="border border-white/30 px-4 py-2 rounded text-xs hover:bg-white/10 transition-colors">Code</a>
           </div>
         </div>
       ))}
