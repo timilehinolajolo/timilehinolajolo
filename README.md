@@ -4,7 +4,7 @@
   </a>
 </div>
 
-##Socials
+## Socials
 <p align="center">
   <a href="https://timilehinolajolo.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
