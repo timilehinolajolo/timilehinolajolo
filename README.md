@@ -13,7 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://linkedin.com/in/timilehin-olajolo-6248b9269" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
