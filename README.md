@@ -4,6 +4,24 @@
   </a>
 </div>
 
+<details>
+  <summary><b>✨ Peek at my daily routine (Click to reveal)</b></summary>
+  <br/>
+
+```javascript
+const timilehin = {
+  role: "Frontend Developer",
+  location: "Lagos, NG",
+  passions: ["React", "Beautiful UIs", "Continuous Learning"],
+  bio: () => {
+    engineeringStudent();
+    buildAwesomeThings();
+    publicSpeaker();
+  }
+};
+```
+</details>
+
 <div align="center">
   <br/>
 
