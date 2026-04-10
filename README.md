@@ -4,27 +4,31 @@
   </a>
 </div>
 
-## Socials
-<p align="center">
-  <a href="https://timilehinolajolo.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/timilehin-olajolo-6248b9269" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/_timilehintaiwo" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://instagram.com/timilehinoolajolo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@timilehinolajolo" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:timilehinolajolo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  <br/>
+  <h2>CONNECT WITH ME</h2>
+  <br/>
+  <p align="center">
+    <a href="https://x.com/_timilehintaiwo" target="_blank">
+      <img src="LINK_TO_YOUR_ANIMATED_X_ICON.svg" width="60" alt="X (Twitter)" style="margin: 0 15px; vertical-align: middle;">
+    </a>
+    <a href="https://linkedin.com/in/timilehin-olajolo-6248b9269" target="_blank">
+      <img src="LINK_TO_YOUR_ANIMATED_LINKEDIN_ICON.svg" width="60" alt="LinkedIn" style="margin: 0 15px; vertical-align: middle;">
+    </a>
+    <a href="https://instagram.com/timilehinoolajolo" target="_blank">
+      <img src="LINK_TO_YOUR_ANIMATED_INSTAGRAM_ICON.svg" width="60" alt="Instagram" style="margin: 0 15px; vertical-align: middle;">
+    </a>
+    <a href="https://medium.com/@timilehinolajolo" target="_blank">
+      <img src="LINK_TO_YOUR_ANIMATED_MEDIUM_ICON.svg" width="60" alt="Medium" style="margin: 0 15px; vertical-align: middle;">
+    </a>
+    <a href="mailto:timilehinolajolo@gmail.com" target="_blank">
+      <img src="LINK_TO_YOUR_ANIMATED_EMAIL_ICON.svg" width="60" alt="Email" style="margin: 0 15px; vertical-align: middle;">
+    </a>
+    <a href="https://timilehinolajolo.netlify.app" target="_blank">
+      <img src="LINK_TO_YOUR_ANIMATED_WEBSITE_ICON.svg" width="60" alt="Portfolio" style="margin: 0 15px; vertical-align: middle;">
+    </a>
+  </p>
+</div>
 
 ## GitHub Stats  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=timilehinolajolo&theme=dark&hide_border=false)<br/>
