@@ -1,9 +1,6 @@
-<div align="center">
-  
-  <h1>Hi there, I'm Timilehin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align: middle;"></h1>
-  
+<div align="center"> 
   <a href="https://github.com/timilehinolajolo">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+%7C+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Timilehin;Front-End+Developer;JavaScript+%7C+React" alt="Typing SVG" />
   </a>
 </div>
 
