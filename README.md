@@ -21,8 +21,6 @@ const timilehin = {
 };
 ```
 </details>
-
-##  Socials ✨
 <div align="center">
   <br/>
 
