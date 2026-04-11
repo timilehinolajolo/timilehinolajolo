@@ -63,6 +63,4 @@ const timilehin = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timilehinolajolo&theme=dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timilehinolajolo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=38BDF8" alt="Top Languages" />
 </p>
