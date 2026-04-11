@@ -7,6 +7,7 @@
 <details>
   <summary><b> Click to see About Me₊✩ </b></summary>
   <br/>
+  
 ```javascript
 const timilehin = {
   name: "Timilehin Olajolo",
@@ -21,6 +22,8 @@ const timilehin = {
 };
 ```
 </details>
+
+
 <div align="center">
   <br/>
 
