@@ -22,7 +22,7 @@ const timilehin = {
 ```
 </details>
 
-##  𓂃۶ Socials ৎ
+##  Socials ✨
 <div align="center">
   <br/>
 
