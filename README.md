@@ -23,44 +23,23 @@ const timilehin = {
 ```
 </details>
 
-
 <div align="center">
-  <br/>
-
-  <a href="https://x.com/_timilehintaiwo" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/white" width="35" alt="X (Twitter)">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://linkedin.com/in/timilehin-olajolo-6248b9269" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://instagram.com/timilehinoolajolo" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://medium.com/@timilehinolajolo" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/white" width="35" alt="Medium">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:timilehinolajolo@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Email">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://timilehinolajolo.netlify.app" target="_blank">
-    <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="35" alt="Portfolio">
-  </a>
-
-  <br/>
+  <a href="https://x.com/_timilehintaiwo" target="_blank"><img src="https://cdn.simpleicons.org/x/white" width="35" alt="X (Twitter)"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/timilehin-olajolo-6248b9269" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/timilehinoolajolo" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@timilehinolajolo" target="_blank"><img src="https://cdn.simpleicons.org/medium/white" width="35" alt="Medium"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:timilehinolajolo@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://timilehinolajolo.netlify.app" target="_blank"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="35" alt="Portfolio"></a>
 </div>
 
 ## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timilehinolajolo&theme=dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-  <br/>
 </p>
+
+<br/>
+<br/>
+
+<div align="right">
+  <i><small>🌸 Last updated: 11/4/2026 1:10am 🌸</small></i>
+</div>
