@@ -37,9 +37,6 @@ const timilehin = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timilehinolajolo&theme=dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
-<br/>
-<br/>
-
 ### 🛠️ Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timilehinolajolo&layout=compact&theme=radical)](https://github.com/timilehinolajolo)
 
