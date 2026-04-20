@@ -40,12 +40,12 @@ const timilehin = {
 <br/>
 <br/>
 
-
+### 🛠️ Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timilehinolajolo&layout=compact&theme=radical)](https://github.com/timilehinolajolo)
 
 <br/>
 <br/>
 
 <div align="right">
-  <i><small>🌸 Last updated: 20/4/2026 09:16am 🌸</small></i>
+  <i><small>🌸 Last updated: 20/4/2026 10:22am 🌸</small></i>
 </div>
