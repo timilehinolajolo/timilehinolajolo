@@ -39,8 +39,11 @@ const timilehin = {
 
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timilehinolajolo&layout=compact&theme=radical)](https://github.com/timilehinolajolo)
+
+<br/>
 <br/>
 
 <div align="right">
