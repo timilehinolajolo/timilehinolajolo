@@ -39,7 +39,10 @@ const timilehin = {
 
 <br/>
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+
+<br/>
 
 <div align="right">
-  <i><small>🌸 Last updated: 11/4/2026 02:53pm 🌸</small></i>
+  <i><small>🌸 Last updated: 20/4/2026 09:16am 🌸</small></i>
 </div>
