@@ -240,7 +240,7 @@ const MyPortfolio = () => {
               
               <div className="pt-4">
                 <a 
-                  href="https://timilehinolajolo.io" 
+                  href="https://timilehinolajolo.github.io" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-purple-600 hover:bg-purple-500 text-white font-mono text-sm tracking-widest uppercase transition-all duration-300 shadow-[0_0_15px_rgba(168,85,247,0.3)] hover:shadow-[0_0_25px_rgba(168,85,247,0.6)] rounded-sm"
