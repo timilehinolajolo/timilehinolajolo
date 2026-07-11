@@ -191,9 +191,9 @@ const MyPortfolio = () => {
             </div>
             
             <h1 className="text-5xl md:text-7xl font-sans font-bold tracking-tight text-white leading-[1.1]">
-              Frontend Developer <br/>
+              React <br/>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-purple-600">
-                engineering modern web experiences.
+                Frontend Developer
               </span>
             </h1>
 
