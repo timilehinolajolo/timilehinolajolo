@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Hello! I am Timilehin, a final-year student in Agriculture and Bioresources Engineering at the Federal University of Agriculture, Abeokuta.
+Hello! I am Timilehin, a final-year student in Agricultural and Bioresources Engineering at the Federal University of Agriculture, Abeokuta.
 
 My interest lies in soil and water conservation engineering using Machine Learning and Natural Language Processing (ML/NLP).
 
