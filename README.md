@@ -8,7 +8,7 @@ Hello! I am Timilehin, a final-year student in Agricultural and Bioresources Eng
 
 My interest lies in soil and water conservation engineering using Machine Learning and Natural Language Processing (ML/NLP).
 
-I am also a software developer focused on building clean web apps. You can view my projects on my website: [timilehinolajolo.netlify.app](https://timilehinolajolo.netlify.app)
+I am also a frontend developer focused on building clean web apps. You can view my projects on my website: [timilehinolajolo.netlify.app](https://timilehinolajolo.netlify.app)
 
 ## GitHub Stats  
 <p align="center">
