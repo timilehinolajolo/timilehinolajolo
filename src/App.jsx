@@ -33,7 +33,19 @@ const MyPortfolio = () => {
   };
 
   // Experience Data
-  const experiences = [
+const experiences = [
+    {
+      role: "Frontend Developer",
+      company: "Henri Class Company",
+      date: "Jul 2026 - Present",
+      desc: "Currently developing the first enterprise website and digital storefront for Henri Class Integrated Farms, an integrated multi-sector farm located in Isefun Ipaja, Alimosho, Lagos State. Architecting the platform using TypeScript alongside managing domain configuration."
+    },
+    {
+      role: "Frontend Developer",
+      company: "NIAESB FUNAAB",
+      date: "May 2026 - Present",
+      desc: "Developed the first-ever website for the Nigerian Institution of Agricultural Engineering student body using React.js and Tailwind CSS. Handled domain management and built a comprehensive platform to serve all essential information needed by the students."
+    },
     {
       role: "Frontend Intern Trainee",
       company: "Tech4Dev • Woman Techsters Fellowship 2026",
@@ -57,6 +69,15 @@ const MyPortfolio = () => {
   // Upgraded Premium Projects Data with Images & Links
   const projects = [
     {
+      title: "NIAESB FUNAAB",
+      category: "Student Body Platform",
+      image: "/projects/niaesbfunaab.jpg",
+      desc: "Developed the official web platform for the student body chapter of the Nigerian Association of Agricultural and Bioresources Engineering Students (NIAESB). A comprehensive hub serving all essential information and resources needed by the students.",
+      tech: ["React.js", "Tailwind CSS", "Domain Management"],
+      liveUrl: "https://niaesbfunaab.dev/", 
+      githubUrl: "https://github.com/NIAESB-FUNAAB/niaesb-funaab" 
+    },
+    {
       title: "TrustBridge",
       category: "Full-Stack FinTech",
       image: "/projects/TrustBridge.jpg",
@@ -64,6 +85,15 @@ const MyPortfolio = () => {
       tech: ["React", "Tailwind CSS", "AI Integration", "Data Visualization"],
       liveUrl: "https://trustbridgee.netlify.app/", 
       githubUrl: "https://github.com/invicta-team-67/trustbridge" 
+    },
+        {
+      title: "Henri Clas Integrated Farms",
+      category: "Enterprise Web Application",
+      image: "/projects/HenriClas.jpg",
+      desc: "Currently developing the first digital storefront and enterprise website for Henri Clas Integrated Farms, a multi-sector farm based in Lagos State. Architecting the platform to optimize online presence and user engagement.",
+      tech: ["TypeScript", "Frontend Architecture", "Domain Management"],
+      liveUrl: "", // Coming soon
+      githubUrl: "https://github.com/timilehinolajolo/henriclas-farm" 
     },
     {
       title: "KoboSats",
@@ -74,6 +104,7 @@ const MyPortfolio = () => {
       liveUrl: "https://kobosat.netlify.app/", 
       githubUrl: "https://github.com/Team-Lumina/KoboSat-frontend" 
     },
+  
     {
       title: "ScripturePro Quiz",
       category: "Interactive Web App",
@@ -94,7 +125,7 @@ const MyPortfolio = () => {
     },
     {
       title: "UniGrand",
-      category: "independent Learning",
+      category: "Independent Learning",
       image: "/projects/UniGrand.jpg",
       desc: "An imaginary, highly-detailed university dashboard interface designed for seamless student data visualization, schedule tracking, and portal management.",
       tech: ["HTML5", "Advanced CSS", "JavaScript"],
@@ -111,7 +142,6 @@ const MyPortfolio = () => {
       githubUrl: "https://github.com/timilehinolajolo/Team-Apex" 
     }
   ];
-
   // Minimalist Social Links
   const socialLinks = [
     { 
