@@ -92,7 +92,7 @@ const experiences = [
       image: "/projects/HenriClas.jpg",
       desc: "Currently developing the first digital storefront and enterprise website for Henri Clas Integrated Farms, a multi-sector farm based in Lagos State. Architecting the platform to optimize online presence and user engagement.",
       tech: ["TypeScript", "Frontend Architecture", "Domain Management"],
-      liveUrl: "", // Coming soon
+      liveUrl: "https://henriclas-farm.onrender.com", 
       githubUrl: "https://github.com/timilehinolajolo/henriclas-farm" 
     },
     {
