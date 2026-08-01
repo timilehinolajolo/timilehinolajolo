@@ -233,12 +233,14 @@ const experiences = [
 
             <div className="flex flex-wrap items-center gap-6 pt-4">
               <motion.a 
-                href="#work"
+                href="https://docs.google.com/document/d/1wKIBraeCHSW1QraUxYWsBXUoITmB6TAr/edit?usp=drive_link&ouid=108583792234478317509&rtpof=true&sd=true"
+                target="_blank"
+                rel="noopener noreferrer"
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
                 className="px-8 py-4 bg-white text-black font-medium text-sm transition-all shadow-[0_0_20px_rgba(255,255,255,0.1)] hover:shadow-[0_0_25px_rgba(168,85,247,0.4)] cursor-pointer inline-block"
               >
-                View Latest Projects
+                Resume
               </motion.a>
               
               <div className="flex gap-5">
