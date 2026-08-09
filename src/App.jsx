@@ -104,7 +104,6 @@ const experiences = [
       liveUrl: "https://kobosat.netlify.app/", 
       githubUrl: "https://github.com/Team-Lumina/KoboSat-frontend" 
     },
-  
     {
       title: "ScripturePro Quiz",
       category: "Interactive Web App",
@@ -113,24 +112,6 @@ const experiences = [
       tech: ["JavaScript", "State Management", "DOM Manipulation"],
       liveUrl: "https://scriptureproquiz.netlify.app/", 
       githubUrl: "https://github.com/timilehinolajolo/ScripturePRO" 
-    },
-    {
-      title: "Task Master",
-      category: "Tech4Dev • Woman Techsters Fellowship 2026",
-      image: "/projects/TaskMaster.jpg",
-      desc: "Developed a robust client-side authentication and secure session management system relying entirely on high-performance Vanilla JavaScript.",
-      tech: ["Vanilla JS", "Local Storage API", "Security logic"],
-      liveUrl: "https://taskmasterbytimilehinolajolo.netlify.app/", 
-      githubUrl: "https://github.com/timilehinolajolo/Task-Master" 
-    },
-    {
-      title: "UniGrand",
-      category: "Independent Learning",
-      image: "/projects/UniGrand.jpg",
-      desc: "An imaginary, highly-detailed university dashboard interface designed for seamless student data visualization, schedule tracking, and portal management.",
-      tech: ["HTML5", "Advanced CSS", "JavaScript"],
-      liveUrl: "https://unigrand.netlify.app/", 
-      githubUrl: "https://github.com/timilehinolajolo/UNIGRAND" 
     },
     {
       title: "Team Apex - Landing Page",
