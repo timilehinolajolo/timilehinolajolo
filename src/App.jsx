@@ -68,6 +68,15 @@ const experiences = [
 
   // Upgraded Premium Projects Data with Images & Links
   const projects = [
+          {
+      title: "Henri Clas Integrated Farms",
+      category: "Enterprise Web Application",
+      image: "/projects/HenriClas.jpg",
+      desc: "Currently developing the first digital storefront and enterprise website for Henri Clas Integrated Farms, a multi-sector farm based in Lagos State. Architecting the platform to optimize online presence and user engagement.",
+      tech: ["TypeScript", "Frontend Architecture", "Domain Management"],
+      liveUrl: "https://henriclas-farm.onrender.com", 
+      githubUrl: "https://github.com/timilehinolajolo/henriclas-farm" 
+    },
     {
       title: "NIAESB FUNAAB",
       category: "Student Body Platform",
@@ -85,15 +94,6 @@ const experiences = [
       tech: ["React", "Tailwind CSS", "AI Integration", "Data Visualization"],
       liveUrl: "https://trustbridgee.netlify.app/", 
       githubUrl: "https://github.com/invicta-team-67/trustbridge" 
-    },
-        {
-      title: "Henri Clas Integrated Farms",
-      category: "Enterprise Web Application",
-      image: "/projects/HenriClas.jpg",
-      desc: "Currently developing the first digital storefront and enterprise website for Henri Clas Integrated Farms, a multi-sector farm based in Lagos State. Architecting the platform to optimize online presence and user engagement.",
-      tech: ["TypeScript", "Frontend Architecture", "Domain Management"],
-      liveUrl: "https://henriclas-farm.onrender.com", 
-      githubUrl: "https://github.com/timilehinolajolo/henriclas-farm" 
     },
     {
       title: "KoboSats",
