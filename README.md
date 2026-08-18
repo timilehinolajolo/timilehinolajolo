@@ -1,6 +1,6 @@
 <div align="center"> 
   <a href="https://github.com/timilehinolajolo">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Timilehin;Front-End+%26+Full-Stack+Developer;React+%7C+TypeScript+%7C+Python;Agricultural+%26+Bioresources+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Timilehin;Front-End Developer; React+%7C+TypeScript;" alt="Typing SVG" />
   </a>
 </div>
 
