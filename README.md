@@ -56,11 +56,11 @@
 ### GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timilehinolajolo&theme=dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=timilehinolajolo&theme=dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timilehinolajolo&layout=compact&theme=dark&title_color=38BDF8&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=timilehinolajolo&layout=compact&theme=dark&title_color=38BDF8&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
 
 <br/>
